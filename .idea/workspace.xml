@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68a2d152-9f0b-4bf4-837d-48d893fb5a58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stream-api/target/test-classes/stream/api/Exercise2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/target/test-classes/stream/api/Exercise2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/date-and-time-api/target/" />
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -20,19 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="433">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -53,6 +42,7 @@
         <option value="$PROJECT_DIR$/stream-api/pom.xml" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java" />
       </list>
     </option>
   </component>
@@ -73,9 +63,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
+    <option name="x" value="65" />
     <option name="y" value="23" />
-    <option name="width" value="1427" />
+    <option name="width" value="1199" />
     <option name="height" value="856" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -137,7 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558301343100" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558301846532" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -156,23 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise2Test.top3RichCustomer">
-    <configuration name="Exercise1Test.howOldAreTheCustomers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise1Test" />
-      <option name="METHOD_NAME" value="howOldAreTheCustomers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Exercise3Test">
     <configuration name="Exercise2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stream-api" />
       <extension name="coverage">
@@ -203,22 +177,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2Test.sortByAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise2Test" />
-      <option name="METHOD_NAME" value="sortByAge" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exercise2Test.top3RichCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stream-api" />
       <extension name="coverage">
@@ -235,13 +193,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stream.api" />
+      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise3Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3Test.richestCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stream.api" />
+      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise3Test" />
+      <option name="METHOD_NAME" value="richestCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise3Test" />
+        <item itemvalue="JUnit.Exercise3Test.richestCustomer" />
         <item itemvalue="JUnit.Exercise2Test.top3RichCustomer" />
         <item itemvalue="JUnit.Exercise2Test" />
         <item itemvalue="JUnit.Exercise2Test.descSortByAge" />
-        <item itemvalue="JUnit.Exercise2Test.sortByAge" />
-        <item itemvalue="JUnit.Exercise1Test.howOldAreTheCustomers" />
       </list>
     </recent_temporary>
   </component>
@@ -257,14 +245,11 @@
       <updated>1558030426304</updated>
       <workItem from="1558030428420" duration="3170000" />
       <workItem from="1558263267153" duration="184000" />
-      <workItem from="1558264985476" duration="1129000" />
+      <workItem from="1558264985476" duration="1589000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 26m 38s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 27m 13s.xml">
       <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
     </history-entry>
@@ -292,9 +277,12 @@
     <history-entry file="Exercise2Test_top3RichCustomer - 2019.05.19 at 22h 25m 55s.xml">
       <configuration name="Exercise2Test.top3RichCustomer" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exercise2Test_top3RichCustomer - 2019.05.19 at 22h 29m 08s.xml">
+      <configuration name="Exercise2Test.top3RichCustomer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4483000" />
+    <option name="totallyTimeSpent" value="4943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1427" height="856" extended-state="0" />
@@ -370,13 +358,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common-test-tool/src/test/resources/data.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -386,8 +367,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        <state relative-caret-position="371">
+          <caret line="76" column="89" lean-forward="true" selection-start-line="76" selection-start-column="89" selection-end-line="76" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
