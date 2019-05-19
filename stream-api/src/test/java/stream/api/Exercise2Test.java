@@ -57,11 +57,12 @@ public class Exercise2Test extends ClassicOnlineStore {
          * Create a stream with top 3 rich customers using {@link Stream#limit} to limit the size of the stream
          */
         Stream<String> top3RichCustomerStream = customerList.stream()
-                                                            .sorted(Comparator.comparing(Customer::getBudget))
+                                                            .sorted((c1, c2) -> c2.getBudget() - c1.getBudget())
                                                             .limit(3)
                                                             .map(x -> x.getName());
 
         List<String> top3RichCustomerList = top3RichCustomerStream.collect(Collectors.toList());
+
         assertThat(top3RichCustomerList, contains("Diana", "Andrew", "Chris"));
     }
 

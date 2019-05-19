@@ -22,13 +22,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="245">
+              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Martin</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,6 +92,41 @@
               <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -88,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558259882735" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558301343100" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -107,23 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise2Test.descSortByAge">
-    <configuration name="Exercise1Test.findRichCustomers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise1Test" />
-      <option name="METHOD_NAME" value="findRichCustomers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Exercise2Test.top3RichCustomer">
     <configuration name="Exercise1Test.howOldAreTheCustomers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stream-api" />
       <extension name="coverage">
@@ -136,6 +169,20 @@
       <option name="MAIN_CLASS_NAME" value="stream.api.Exercise1Test" />
       <option name="METHOD_NAME" value="howOldAreTheCustomers" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stream.api" />
+      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise2Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,12 +219,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise2Test.top3RichCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stream.api" />
+      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise2Test" />
+      <option name="METHOD_NAME" value="top3RichCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise2Test.top3RichCustomer" />
+        <item itemvalue="JUnit.Exercise2Test" />
         <item itemvalue="JUnit.Exercise2Test.descSortByAge" />
         <item itemvalue="JUnit.Exercise2Test.sortByAge" />
         <item itemvalue="JUnit.Exercise1Test.howOldAreTheCustomers" />
-        <item itemvalue="JUnit.Exercise1Test.findRichCustomers" />
       </list>
     </recent_temporary>
   </component>
@@ -193,20 +257,11 @@
       <updated>1558030426304</updated>
       <workItem from="1558030428420" duration="3170000" />
       <workItem from="1558263267153" duration="184000" />
-      <workItem from="1558264985476" duration="610000" />
+      <workItem from="1558264985476" duration="1129000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 22m 51s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 25m 31s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 26m 28s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 26m 38s.xml">
       <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
     </history-entry>
@@ -228,15 +283,24 @@
     <history-entry file="Exercise2Test_descSortByAge - 2019.05.18 at 15h 20m 51s.xml">
       <configuration name="Exercise2Test.descSortByAge" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exercise2Test - 2019.05.19 at 22h 22m 51s.xml">
+      <configuration name="Exercise2Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise2Test_top3RichCustomer - 2019.05.19 at 22h 25m 24s.xml">
+      <configuration name="Exercise2Test.top3RichCustomer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise2Test_top3RichCustomer - 2019.05.19 at 22h 25m 55s.xml">
+      <configuration name="Exercise2Test.top3RichCustomer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3964000" />
+    <option name="totallyTimeSpent" value="4483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1427" height="856" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17906137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17906137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -246,7 +310,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39921466" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,11 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common-test-tool/src/test/resources/data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/entity/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -311,10 +370,24 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-test-tool/src/test/resources/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="80" column="19" lean-forward="true" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="245">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
         </state>
       </provider>
     </entry>
