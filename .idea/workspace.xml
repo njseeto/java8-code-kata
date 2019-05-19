@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68a2d152-9f0b-4bf4-837d-48d893fb5a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_7_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collection-interfaces/collection-interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-test-tool/common-test-tool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date-and-time-api/date-and-time-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8-code-kata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream-api/stream-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stream-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream-api/target/test-classes/stream/api/Exercise2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/target/test-classes/stream/api/Exercise2Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/date-and-time-api/target/" />
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -37,24 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java">
+        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream-api/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="477">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -69,6 +38,7 @@
       <list>
         <option value="$PROJECT_DIR$/stream-api/pom.xml" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java" />
       </list>
     </option>
   </component>
@@ -89,7 +59,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
+    <option name="x" value="16" />
     <option name="y" value="23" />
     <option name="width" value="1427" />
     <option name="height" value="856" />
@@ -100,7 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,52 +78,17 @@
               <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="stream-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558041801527" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558259882735" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -172,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise1Test.howOldAreTheCustomers">
+  <component name="RunManager" selected="JUnit.Exercise2Test.descSortByAge">
     <configuration name="Exercise1Test.findRichCustomers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stream-api" />
       <extension name="coverage">
@@ -205,8 +140,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise2Test.descSortByAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stream.api" />
+      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise2Test" />
+      <option name="METHOD_NAME" value="descSortByAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2Test.sortByAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stream.api" />
+      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise2Test" />
+      <option name="METHOD_NAME" value="sortByAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise2Test.descSortByAge" />
+        <item itemvalue="JUnit.Exercise2Test.sortByAge" />
         <item itemvalue="JUnit.Exercise1Test.howOldAreTheCustomers" />
         <item itemvalue="JUnit.Exercise1Test.findRichCustomers" />
       </list>
@@ -222,26 +191,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558030426304</updated>
-      <workItem from="1558030428420" duration="876000" />
+      <workItem from="1558030428420" duration="3170000" />
+      <workItem from="1558263267153" duration="184000" />
+      <workItem from="1558264985476" duration="610000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 15m 33s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 15m 53s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 16m 12s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 17m 00s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 19m 43s.xml">
-      <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 22m 51s.xml">
       <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
     </history-entry>
@@ -257,44 +213,59 @@
     <history-entry file="Exercise1Test_findRichCustomers - 2019.05.16 at 19h 27m 13s.xml">
       <configuration name="Exercise1Test.findRichCustomers" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exercise1Test_howOldAreTheCustomers - 2019.05.16 at 22h 23m 29s.xml">
+      <configuration name="Exercise1Test.howOldAreTheCustomers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise1Test_howOldAreTheCustomers - 2019.05.18 at 15h 14m 34s.xml">
+      <configuration name="Exercise1Test.howOldAreTheCustomers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise2Test_sortByAge - 2019.05.18 at 15h 15m 47s.xml">
+      <configuration name="Exercise2Test.sortByAge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise2Test_descSortByAge - 2019.05.18 at 15h 17m 56s.xml">
+      <configuration name="Exercise2Test.descSortByAge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise2Test_descSortByAge - 2019.05.18 at 15h 20m 51s.xml">
+      <configuration name="Exercise2Test.descSortByAge" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="876000" />
+    <option name="totallyTimeSpent" value="3964000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="23" width="1427" height="856" extended-state="0" />
+    <frame x="16" y="23" width="1427" height="856" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17472924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17906137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39921466" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.1566787" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.1566787" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,18 +274,47 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stream-api/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="405">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-test-tool/src/test/resources/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-test-tool/src/main/java/common/test/tool/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="64">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
